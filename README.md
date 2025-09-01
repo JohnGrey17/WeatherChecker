@@ -53,7 +53,7 @@ cd <project-folder>
 ---
 
 ## Configure Your WeatherAPI Key
-1. Create an account at WeatherAPI and get your **API key**.
+1. Create an account at [WeatherAPI](https://www.weatherapi.com/) and get your **API key**.
 2. Create a `.env` file in the project root **(do not commit it)**:
    ```dotenv
    WEATHER_API_KEY=YOUR_KEY
