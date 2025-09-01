@@ -44,7 +44,7 @@ If you need to upgrade the wrapper locally, run from the **project root** (where
 
 ## Clone the Repository
 ```bash
-git clone <YOUR_REPO_URL>.git
+git clone https://github.com/JohnGrey17/WheaterChecker.git
 cd <project-folder>
 ```
 > **Important:** After cloning, change into the project directory with `cd <project-folder>`.  
