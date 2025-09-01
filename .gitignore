@@ -1,0 +1,14 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Local env
+.env
