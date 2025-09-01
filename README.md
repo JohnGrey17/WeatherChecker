@@ -16,7 +16,7 @@ Uses **Retrofit** for HTTP and outputs: **Min/Max °C, Humidity %, Wind kph, Win
 - [Configure Your WeatherAPI Key](#Configure-Your-WeatherAPI-Key)
 - [Run](#Run)
 - [Sample Output](#Sample-Output)
-- [Build & Tests](#Build-&-Tests)
+- [Build & Tests](#Build-ests)
 
 ---
 
@@ -120,7 +120,7 @@ cd <project-folder>
 
 ---
 
-## Build & Tests
+## Build-Tests
 Full cycle (clean → tests → build):
 ```bash
 ./gradlew clean build
