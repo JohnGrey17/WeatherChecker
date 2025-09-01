@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="res/topGif.giff" alt="Logo" width="400"/>
+  <img src="res/topGif.gif" alt="Logo" width="400"/>
 </p>
 
 # WeatherAPI.com Code Challenge (CLI)
