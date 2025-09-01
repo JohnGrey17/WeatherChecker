@@ -4,7 +4,6 @@ import com.example.weatherchecker.dto.ApiForecastResponseDto;
 import com.example.weatherchecker.model.Forecast;
 
 public class ForeCastDtoFactory {
-
     public Forecast fromForecastDay(String city, ApiForecastResponseDto.ForecastDay fd) {
         if (fd == null || fd.getDay() == null) return null;
 
